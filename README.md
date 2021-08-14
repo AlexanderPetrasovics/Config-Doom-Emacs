@@ -1,3 +1,3 @@
-# Config-Doom-Emacs
+## Config-Doom-Emacs
 
 Eigene Configuration
